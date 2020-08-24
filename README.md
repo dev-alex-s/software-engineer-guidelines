@@ -1,14 +1,18 @@
 # software-engineer-guidelines
 Guidelines software engineers should practice when writing clean code reuseable code.
 
-## ❗ Objective
+## Objective
+
 To establish a list of guidelines for software engineers to follow when writing code and conducting code reviews.
 
-## 📏 Which metric to use
+## Which metric to use
+
 If the code is not clean and easy to read, then that indicates there's a problem.
+
 <img src="code-review.png">
 
-## ✅ Guidelines
+## Guidelines
+
 The below guidelines are not all inclusive, but they should be referenced by both code writers / reviewers.
 
 - [ ] Create a new branch for every different feature addition / change.
