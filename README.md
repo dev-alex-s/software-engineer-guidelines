@@ -3,7 +3,7 @@ Guidelines software engineers should practice when writing clean code reuseable 
 
 ## Objective
 
-To establish a list of guidelines for software engineers to follow when writing code and conducting code reviews.
+To establish guidelines for software engineers to follow when writing and reviewing code.
 
 ## Which metric to use
 
