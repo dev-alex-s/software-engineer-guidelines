@@ -1,4 +1,4 @@
-# software-engineer-guidelines
+# Software Engineer Guidelines
 ## Objective
 
 To establish guidelines for software engineers to follow when writing and reviewing clean testable code.
