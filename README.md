@@ -1,9 +1,7 @@
 # software-engineer-guidelines
-Guidelines software engineers should practice for writing clean testable code.
-
 ## Objective
 
-To establish guidelines for software engineers to follow when writing and reviewing code.
+To establish guidelines for software engineers to follow when writing and reviewing clean testable code.
 
 ## Which metric to use
 
