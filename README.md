@@ -11,7 +11,7 @@ If the code is not clean and easy to read, then that indicates there's a problem
 
 ## Guidelines
 
-These below guidelines should be kept in mind by both coders and reviewers.
+These below guidelines should be kept in mind when both writing and reviewing code.
 
 - [ ] Create a new branch for every different feature addition / change.
 - [ ] Commit code as small commits with semantic versioning in mind.
