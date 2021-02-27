@@ -5,7 +5,7 @@ To establish guidelines for software engineers to follow when writing and review
 
 ## Which metric to use
 
-If the code is not clean and easy to read, then that indicates there's a problem.
+If the code is not clean and easy to read, then that indicates there's a problem. Period.
 
 <img src="code-review.png">
 
