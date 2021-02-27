@@ -18,8 +18,8 @@ These below guidelines should be kept in mind when both writing and reviewing co
 - [ ] Well written code should not have deeply nested control logic.
 - [ ] Well written code should be separate from the configuration.
 - [ ] Well written code should be logically organized based on domain.
-- [ ] Well written code should consist of function which do one thing and one thing only.
-- [ ] Well written code should consist of function that are not greater than 10 lines of code.
+- [ ] Well written code should consist of functions which do one thing and one thing only.
+- [ ] Well written code should consist of functions that are not greater than 10 lines of code.
 - [ ] Well written code should consist of functions and properties with clear naming that describes their intent.
 - [ ] One branch per every new feature added.
 - [ ] Functions are verbs; Classes and variables are nouns.
